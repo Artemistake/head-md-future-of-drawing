@@ -12,4 +12,3 @@ Talked with the tutors about my idea of turning speech into personnal graphic la
 
 ## 2023-11-01
 Made a prototype to help me testing some design ideas and activated it with pepole from the class. The testing helped me realize some of the fundamentals i had to have in mind for this project concering user experience and how the interraction must take place. I pused my research further concerning generative typography and graphic languages. 
-
