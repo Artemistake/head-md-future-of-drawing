@@ -3,7 +3,7 @@ Media design project with caran d'ache
 
 # Process
 
-[1 Novembre] (##2023-11-01)
+[1 Novembre](##2023-11-01)
 
 ## 2023-10-30
 Presented two prototypes linked to two different ideas: one of a interractive book used to incorporate your own drawings in your stories and procedurally animating them, and the other, more linked to my field research, an interactive table for playing role-play games. 
