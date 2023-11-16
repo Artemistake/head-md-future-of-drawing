@@ -3,6 +3,8 @@ Media design project with caran d'ache
 
 # Process
 
+[1 Novembre] (##2023-11-01)
+
 ## 2023-10-30
 Presented two prototypes linked to two different ideas: one of a interractive book used to incorporate your own drawings in your stories and procedurally animating them, and the other, more linked to my field research, an interactive table for playing role-play games. 
 After the exchange with tutors and other students, I decided to merge my ideas and broadening the subject of IRL role-playing to the subject of talking, discussing and telling stories alone, or in groups.
