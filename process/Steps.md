@@ -6,6 +6,7 @@
 - 3D Modelling
  - Pin (separated in 3 layers)
  - Back Magnet
+ - smaller "utopian" version
 
 ## Materials
 
