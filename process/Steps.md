@@ -9,7 +9,7 @@
 
 ## Materials
 
-- Plastic for 3D printing (what plastic?)
+- Plastic for 3D printing (what kind of plastic? color?)
 - Magnets for fastenings
 
 ## Electronics
