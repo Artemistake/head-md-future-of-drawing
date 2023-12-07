@@ -4,7 +4,7 @@
 ## Form 
 
 - 3D Modelling
- - Pin
+ - Pin (separated in 3 layers)
  - Back Magnet
 
 ## Materials
