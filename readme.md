@@ -21,6 +21,6 @@ Made a prototype to help me testing some design ideas and activated it with pepo
 Made some 3d visualisation mockups of the project to help me see how the final form can be and help think about the interraction a little more in depth. We talked about how the interraction with an external plateform may be confusing and put more weight on the project. So for now I decided to focus on the "pin" object and how it creates this identities based on speech.
 
 ## 2023-11-16
-We had a presentation with people from caran d'ache and the feedbacks were similar to what we said yesterday with Alexia and Douglas. The project have good bases and will evolve in a more concise way, ableing it to be more precise and easy to understand.
+We had a presentation with people from caran d'ache and the feedbacks were similar to what we said yesterday with Alexia and Douglas. I was told that the project have good bases and need to evolve in a more concise way, ableing it to be more precise and easy to understand.
 
 ## 
