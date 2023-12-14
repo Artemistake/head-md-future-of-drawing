@@ -51,3 +51,7 @@ Résultats Test Day:
 ![]("head-md-future-of-drawing/presentations/2023_12_14/Résulats/Tableau1_0.png")
 
 
+![](head-md-future-of-drawing\presentations\2023_12_14\Résulats\Tableau_réponses.png")
+
+
+They didn't liked when it was too abstract because it is frustrating not knowing what could it be and it should be a bit more explicit. In the same way when the results where too similar it was frustrating not knowing what they should search for in ter
