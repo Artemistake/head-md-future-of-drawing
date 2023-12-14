@@ -42,5 +42,12 @@
 
     - "Have you listened to his latest album? Yeah, I love his stuff too. When I listen to his music I'm really in awe, he's just too good. I really like video game ost too, I think it's great. Some games I play just for the music. Is your guy doing any concerts soon? I'd love to go too. Then, with a bit of luck, he'll come to the Paleo!" 
 
+
+
+
+Résultats Test Day: 
+
     
+![]("head-md-future-of-drawing/presentations/2023_12_14/Résulats/Tableau1_0.png")
+
 
