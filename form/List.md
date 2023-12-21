@@ -12,6 +12,6 @@
     - Plastic (3D print)
     - 75 mm Diameter, 4 mm height
 
-- D (not in prototype, to add in 3D model) => Middle Part of the pin, to hold and enclose Top and Bottom Parts
+- D (not in prototype) => Middle Part of the pin, to hold and enclose Top and Bottom Parts
     - Plastic (3D print)
-    - 130 mm diameter, 4 mm height
+    - 130 mm diameter, 6 mm height
