@@ -4,12 +4,24 @@ Project of an passively interactive pin to show your identity
 
 # Process
 
-[1 November](#2023-11-01)  
+[1 November](#2023-11-01)
+
 [15 November](#2023-11-15)
+
+
+
+
+
+## 2023-10-19
+
+After the briefing, I started the project with several ideas and guidelines in mind, I wanted to create an experience or an object that will allow people who don't usually draw or create visual art to make it more engaging and passive by using AI to transform things they already made or by using oral storytelling and transforming it into visuals or a playful way to do it. I then leaned into the field of role-playing games because it connected with my desire to turn oral "creations" and storytelling into something visual to show people who maybe don't normally draw how they can use their everyday language and ideas to make art.
+
+![](process/2023-10-19/canvas_caran-dache-240109_0843.png)
 
 ## 2023-10-30
 
-Presented two prototypes linked to two different ideas: one of a interractive book used to incorporate your own drawings in your stories and procedurally animating them, and the other, more linked to my field research, an interactive table for playing role-play games.  
+Presented two prototypes linked to two different ideas: one of a interractive book used to incorporate your own drawings in your stories and procedurally animating them, and the other, more linked to my field research, an interactive table for playing role-play games.
+
 After the exchange with tutors and other students, I decided to merge my ideas and broadening the subject of IRL role-playing to the subject of talking, discussing and telling stories alone, or in groups.
 
 ## 2023-10-31
@@ -27,6 +39,3 @@ Made some 3d visualisation mockups of the project to help me see how the final f
 ## 2023-11-16
 
 We had a presentation with people from caran d'ache and the feedbacks were similar to what we said yesterday with Alexia and Douglas. I was told that the project have good bases and need to evolve in a more concise way, ableing it to be more precise and easy to understand.
-
-
-
