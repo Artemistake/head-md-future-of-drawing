@@ -18,6 +18,12 @@ After the briefing, I started the project with several ideas and guidelines in m
 
 ![](process/2023-10-19/canvas_caran-dache-240109_0843.png)
 
+## 2023-10-23
+
+Before I had the opportunity to do my field research and assist in a real roleplaying session, asking questions et ceaetera, I wanted to do a big roundup of all the already existing devices, objects, software, online roleplaying sessions, and forums on the internet that can help me see what are the points already explored, what is liked by the community, and what can be further explored. I made a big board collecting all this data and started writing down some insights about these areas of reaserch. this also helped me fine tune my questions for interviews and field reaserch to really point out the things I found interesting during this initial reaserch online.
+
+![](process/2023-10-26/canvas_field-research-240109_0845.png)
+
 ## 2023-10-30
 
 Presented two prototypes linked to two different ideas: one of a interractive book used to incorporate your own drawings in your stories and procedurally animating them, and the other, more linked to my field research, an interactive table for playing role-play games.
