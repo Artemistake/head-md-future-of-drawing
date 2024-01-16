@@ -108,5 +108,5 @@ Continued to experiment with image generation to get different process of genera
 
 ## 2023-12-14 Test days !
 
-Find process and results [here.](presentations%5C2023_12_14)
+Find process and results [here.](presentations%5C2023_12_14%5C)
 
