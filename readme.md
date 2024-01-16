@@ -102,11 +102,11 @@ I did some experimentation with the shape of the object and made some early fina
 
 ## 2023-12-10
 
-Continued to experiment with image generation to get different process of generating that may create consistant style of pictogram-like images to display on the device. I finaly had 5 different ways of generating and prompts to test them during test day. 
+Continued to experiment with image generation to get different process of generating that may create consistant style of pictogram-like images to display on the device. I finaly had 5 different ways of generating and prompts to test them during test day.
 
 ![](presentations/2023_12_14/Images/Exemple.png)
 
 ## 2023-12-14 Test days !
 
-Find process and results [here.](presentations/2023-12-14/)
+Find process and results [here.](presentations/2023_12_14/)
 
