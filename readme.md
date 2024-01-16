@@ -110,3 +110,21 @@ Continued to experiment with image generation to get different process of genera
 
 Find process and results [here.](presentations/2023_12_14/)
 
+## 2023-12-20
+
+More iterations of the prototype one fusion 360 and printed a first version I used for the test days.  Used this first print to figure out the problems of the prototype and change the file of the final Fusion 360 object to send at printing Atelier. 
+
+## 2024-01-09
+
+Got my print of the big prototype used for the presentation containing the E-ink and printed myself a utopian version used for demonstration during jury. 
+
+![](form/2024_01_10/IMG_20240111_112243.jpg)
+
+## 2024-01-12
+
+Finaly got my E-ink and started working on the code to display things on it by wifi. 
+
+## 2024-01-15
+
+Spent the whole weekend trying to unerstand the messy doc of this model of E-ink and learning python to code it. Finaly managed to get a code rolling that helped me displays a list of images on the E-ink. 
+
