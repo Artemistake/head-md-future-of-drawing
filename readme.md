@@ -90,7 +90,7 @@ We had a presentation with people from caran d'ache and the feedbacks were simil
 
 Introduction to Electronics and Modeling, you can find the files and exercices here :
 
-[Electronics](electronics%5C)
+[Electronics](electronics)
 
 [Modeling](form)
 
