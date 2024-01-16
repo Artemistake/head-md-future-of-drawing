@@ -108,5 +108,5 @@ Continued to experiment with image generation to get different process of genera
 
 ## 2023-12-14 Test days !
 
-Find process and results [here.](%22C:%5CCours%5Chead-md-future-of-drawing%5Cpresentations%5C2023_12_14%22)
+Find process and results [here.](presentation/2023-12-14/)
 
