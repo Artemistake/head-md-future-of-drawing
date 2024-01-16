@@ -1,4 +1,4 @@
-# Future of Drawing - Tell'Ink Project
+# Future of Drawing - Tell'Ink Project Process
 
 Project of an passively interactive pin to show your identity
 
@@ -8,9 +8,11 @@ Project of an passively interactive pin to show your identity
 
 [15 November](#2023-11-15)
 
+1 December
 
+15 December
 
-
+15 January
 
 ## 2023-10-19
 
@@ -36,7 +38,7 @@ I conducted my observation session in a roleplaying game, where I observed story
 
 ## 2023-10-30
 
-I then presented two prototypes related to two different ideas: one was an interactive book, mainly for children, that could be used to incorporate one's own drawings into one's own stories, or into existing ones, and then procedurally animate them. The other, more related to my field research, an interactive table for role-playing games where the player could draw visual assets on tablets and then have them all added to a library that can be used by the table to procedurally generate landscape and visuals by listening to what the player says. 
+I then presented two prototypes related to two different ideas: one was an interactive book, mainly for children, that could be used to incorporate one's own drawings into one's own stories, or into existing ones, and then procedurally animate them. The other, more related to my field research, an interactive table for role-playing games where the player could draw visual assets on tablets and then have them all added to a library that can be used by the table to procedurally generate landscape and visuals by listening to what the player says.
 
 
 
@@ -52,12 +54,33 @@ Talked with the tutors about my idea of creating an object or device that could 
 
 ## 2023-11-01
 
-Made a new prototype with a different scenari to help me testing design ideas and activated it with pepole from the class and friends. The testing helped me realize some of the fundamentals i had to have in mind for this project concering user experience and how the interraction must take place. I pushed my research further concerning generative typography and graphic languages.
+Made a new prototype with a different scenarii to help me test design ideas and activated it with people from the class and friends. The testing helped me to realize some of the basics I had to keep in mind for this project regarding the user experience and how the interaction must take place. For example, the main insights I gained from these sessions were that it's difficult to focus on an active system generating live icons during a discussion with 3+ people, and that reading a text is also very demanding in terms of focus and can't really allow people to focus on anything else while doing so. I also continued my research into generative typography and graphic languages.
+
+![](process/2023-11-01/Sans%20titre.png)
+
+## 2023-11-03
+
+I used the different feedbacks and insights I got from the tests and my research to think about the final shape of the object, to try to find the scenario in which my object will be used and the angle the project will take. The field research and testing I did revealed an important point for the direction of the project: that talking and discussing are tasks that require a lot of concentration and don't often leave room for other interactions while doing them. So I decided to make a passive object that didn't require any direct input from the user other than his or her voice. Then I started thinking about how the user's voice could be transformed and how this newly created visual matter could be used or not. I also continued to create and experiment with AI for my visuals.
+
+
+
+## 2023-11-13
+
+I decided on a wearable device that, when activated, would listen to the user's recordings and generate pictograms and ideograms to form the aforementioned personal graphic library. Not sure if the device should have a screen to display the pictograms in real time or not, I started working on two different forms. I also started to shape out what the different uses would be and put down an early user journey. This early user journey consisted of having the user wear the object, activate it when speaking to maybe generate new pictograms when new words are said and otherwise display already existing ones and then have them all repertorized on an online platform linked to his wearable to be able to consult the sign they have generated or modify them.
+
+<img src="process/2023-11-13/Mockup%20site.png" alt="" width="316"/><img src="process/2023-11-13/mockup%20site2.png" alt="" width="318"/>
 
 ## 2023-11-15
 
-Made some 3d visualisation mockups of the project to help me see how the final form can be and help think about the interraction a little more in depth. We talked about how the interraction with an external plateform may be confusing and put more weight on the project. So for now I decided to focus on the "pin" object and how it creates this identities based on speech.
+Made some 3D visualization mockups of the project to help me see what the final form might look like with differtens references and inspirations to help me think a little more deeply about the interraction and form. We talked with the tutors about how the interaction with an external platform might be confusing and add more weight to the project. It would be better to get rid of that part to make the project more understandable and poetic. So for now I decided to focus on the "pin" object and how it creates new visual identities based on speech.
+
+<img src="process/2023-11-13/untitled.png" alt="" width="286"/><img src="process/2023-11-13/untitled%C3%A9.png" alt="" width="330"/>
+
+
 
 ## 2023-11-16
 
+
+
 We had a presentation with people from caran d'ache and the feedbacks were similar to what we said yesterday with Alexia and Douglas. I was told that the project have good bases and need to evolve in a more concise way, ableing it to be more precise and easy to understand.
+
