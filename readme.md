@@ -4,15 +4,11 @@ Project of an passively interactive pin to show your identity
 
 # Process
 
-[1 November](#2023-11-01)
+[November](#2023-11-01)
 
-[15 November](#2023-11-15)
+[December](#2023-12-05)
 
-1 December
-
-15 December
-
-15 January
+[January](#2024-01-09)
 
 ## 2023-10-19
 
@@ -112,19 +108,18 @@ Find process and results [here.](presentations/2023_12_14/)
 
 ## 2023-12-20
 
-More iterations of the prototype one fusion 360 and printed a first version I used for the test days.  Used this first print to figure out the problems of the prototype and change the file of the final Fusion 360 object to send at printing Atelier. 
+More iterations of the prototype one fusion 360 and printed a first version I used for the test days.  Used this first print to figure out the problems of the prototype and change the file of the final Fusion 360 object to send at printing Atelier.
 
 ## 2024-01-09
 
-Got my print of the big prototype used for the presentation containing the E-ink and printed myself a utopian version used for demonstration during jury. 
+Got my print of the big prototype used for the presentation containing the E-ink and printed myself a utopian version used for demonstration during jury.
 
 ![](form/2024_01_10/IMG_20240111_112243.jpg)
 
 ## 2024-01-12
 
-Finaly got my E-ink and started working on the code to display things on it by wifi. 
+Finaly got my E-ink and started working on the code to display things on it by wifi.
 
 ## 2024-01-15
 
-Spent the whole weekend trying to unerstand the messy doc of this model of E-ink and learning python to code it. Finaly managed to get a code rolling that helped me displays a list of images on the E-ink. 
-
+Spent the whole weekend trying to unerstand the messy doc of this model of E-ink and learning python to code it. Finaly managed to get a code rolling that helped me displays a list of images on the E-ink.
