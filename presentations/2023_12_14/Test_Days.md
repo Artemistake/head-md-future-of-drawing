@@ -35,5 +35,5 @@ Résultats Test Day:
 
 ![](head-md-future-of-drawing%5Cpresentations%5C2023_12_14%5CR%C3%A9sulats%5CTableau_r%C3%A9ponses.png%22)
 
-They didn't liked when it was too abstract because it is frustrating not knowing what could it be and it should be a bit more explicit. In the same way when the results where too similar it was frustrating not knowing what they should search for in ter
+They didn't liked when it was too abstract because it is frustrating not knowing what could it be and it should be a bit more explicit. In the same way when the results where too similar it was frustrating not knowing what they should search for in term of pictures or signification. the first one was easy to guess but too figurative. The third one was pretty good in term of imagery but is not enough figurative so too hard to guess.
 

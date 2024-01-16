@@ -78,7 +78,7 @@ Made some 3D visualization mockups of the project to help me see what the final 
 
 
 
-## 2023-11-16
+## 2023-11-16 Half semester with caran d'ache
 
 We had a presentation with people from caran d'ache and the feedbacks were similar to what we said yesterday with Alexia and Douglas about how confusing the whole user journey can be and how it should maybe be more poetic and less charged. I was told that the project have good bases and need to evolve in a more concise way, ableing it to be more precise and easy to understand.
 
@@ -88,9 +88,25 @@ We had a presentation with people from caran d'ache and the feedbacks were simil
 
 ## 2023-11/12
 
-Introduction to Electronics and Modeling, you can find the files and exercices here :
+Introduction to Electronics and Modeling, you can find the files, advancement and exercices here :
 
 [Electronics](electronics)
 
 [Modeling](form)
+
+## 2023-12-05
+
+I did some experimentation with the shape of the object and made some early final pieces to vizualize the functionality of the object and how to fit my electronics into it. I also took into consideration Laure's feedback on general rules for designing objects to make them appear thinner or smoother.
+
+<img src="form/2024_01_10/Sketchs/Janv.%2010,%20Doc.%201%20Page%200_2.jpeg" alt="" width="310"/><img src="form/2024_01_10/Sketchs/Janv.%2010,%20Doc.%202%20Page%201.jpeg" alt="" width="320"/>
+
+## 2023-12-10
+
+Continued to experiment with image generation to get different process of generating that may create consistant style of pictogram-like images to display on the device. I finaly had 5 different ways of generating and prompts to test them during test day. 
+
+![](presentations/2023_12_14/Images/Exemple.png)
+
+## 2023-12-14 Test days !
+
+Find process and results [here.](presentations%5C2023_12_14)
 
