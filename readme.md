@@ -80,7 +80,17 @@ Made some 3D visualization mockups of the project to help me see what the final 
 
 ## 2023-11-16
 
+We had a presentation with people from caran d'ache and the feedbacks were similar to what we said yesterday with Alexia and Douglas about how confusing the whole user journey can be and how it should maybe be more poetic and less charged. I was told that the project have good bases and need to evolve in a more concise way, ableing it to be more precise and easy to understand.
+
+![](process/2023-11-13/IMG_20231115_113756.jpg)
 
 
-We had a presentation with people from caran d'ache and the feedbacks were similar to what we said yesterday with Alexia and Douglas. I was told that the project have good bases and need to evolve in a more concise way, ableing it to be more precise and easy to understand.
+
+## 2023-11/12
+
+Introduction to Electronics and Modeling, you can find the files and exercices here :
+
+[Electronics](electronics%5C)
+
+[Modeling](form)
 
