@@ -24,19 +24,35 @@ Before I had the opportunity to do my field research and assist in a real rolepl
 
 ![](process/2023-10-26/canvas_field-research-240109_0845.png)
 
+
+
+## 2023-10-26
+
+I conducted my observation session in a roleplaying game, where I observed storytelling habits, game play behaviors, acceptance of change, and whether they used any kind of visual support. I also asked them a few questions about AI and related tools that I had learned about in my online research. The two main insights that came out of this were that they were quite reluctant to use AI to generate stories in order to keep their creative freedom, and that this area was already quite loaded with a lot of code and physical matter (dice, boards, accessories...). So I started to look for some ideas for objects that could either take place in this environment or in another area of oral storytelling.
+
+
+
+
+
 ## 2023-10-30
 
-Presented two prototypes linked to two different ideas: one of a interractive book used to incorporate your own drawings in your stories and procedurally animating them, and the other, more linked to my field research, an interactive table for playing role-play games.
+I then presented two prototypes related to two different ideas: one was an interactive book, mainly for children, that could be used to incorporate one's own drawings into one's own stories, or into existing ones, and then procedurally animate them. The other, more related to my field research, an interactive table for role-playing games where the player could draw visual assets on tablets and then have them all added to a library that can be used by the table to procedurally generate landscape and visuals by listening to what the player says. 
 
-After the exchange with tutors and other students, I decided to merge my ideas and broadening the subject of IRL role-playing to the subject of talking, discussing and telling stories alone, or in groups.
+
+
+<img src="process/2023-10-30/Proto2.jpg" alt="" width="295"/><img src="process/2023-10-30/Proto1.jpg" alt="" width="295"/>
+
+
+
+After interacting with tutors and other students, I decided to merge my ideas and expand the theme of IRL role-playing to include talking, discussing, and telling stories alone or in groups.
 
 ## 2023-10-31
 
-Talked with the tutors about my idea of turning speech into personnal graphic language with new references and precised the formal and conceptuals questions I had to answer with testings and prototypes before continuing.
+Talked with the tutors about my idea of creating an object or device that could transform speech and everyday storytelling into a library of generated personal graphic language. I presented new references linked to peapole creating new languages and written symbols in history aswell as some research on typography and visual pictograms. I then refined the formal and conceptual questions I needed to answer with tests and prototypes before proceeding.
 
 ## 2023-11-01
 
-Made a prototype to help me testing some design ideas and activated it with pepole from the class. The testing helped me realize some of the fundamentals i had to have in mind for this project concering user experience and how the interraction must take place. I pushed my research further concerning generative typography and graphic languages.
+Made a new prototype with a different scenari to help me testing design ideas and activated it with pepole from the class and friends. The testing helped me realize some of the fundamentals i had to have in mind for this project concering user experience and how the interraction must take place. I pushed my research further concerning generative typography and graphic languages.
 
 ## 2023-11-15
 
