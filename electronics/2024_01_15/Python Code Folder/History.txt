@@ -1,0 +1,674 @@
+time:2024-01-15 10:43:30	ID:waveshare000	IP:192.168.38.124	PROT:64296	connect.
+time:2024-01-15 10:44:21	ID:waveshare000	IP:192.168.38.124	PROT:49278	connect.
+time:2024-01-15 10:44:32	ID:waveshare000	IP:192.168.38.124	PROT:49278	Display over.
+time:2024-01-15 10:44:42	ID:waveshare000	IP:192.168.38.124	PROT:49278	Display over.
+time:2024-01-15 11:07:27	ID:waveshare000	IP:192.168.38.124	PROT:49488	connect.
+time:2024-01-15 11:08:16	ID:waveshare000	IP:192.168.38.124	PROT:52143	connect.
+time:2024-01-15 11:08:27	ID:waveshare000	IP:192.168.38.124	PROT:52143	Display over.
+time:2024-01-15 11:08:38	ID:waveshare000	IP:192.168.38.124	PROT:52143	Display over.
+time:2024-01-15 13:49:48	ID:waveshare000	IP:192.168.38.124	PROT:59509	connect.
+time:2024-01-15 13:49:59	ID:waveshare000	IP:192.168.38.124	PROT:59509	Display over.
+time:2024-01-15 13:50:10	ID:waveshare000	IP:192.168.38.124	PROT:59509	Display over.
+time:2024-01-15 13:50:36	ID:waveshare000	IP:192.168.38.124	PROT:60476	connect.
+time:2024-01-15 13:57:07	ID:waveshare000	IP:192.168.38.124	PROT:52981	connect.
+time:2024-01-15 13:57:17	ID:waveshare000	IP:192.168.38.124	PROT:59725	connect.
+time:2024-01-15 13:57:28	ID:waveshare000	IP:192.168.38.124	PROT:58243	connect.
+time:2024-01-15 13:57:40	ID:waveshare000	IP:192.168.38.124	PROT:63883	connect.
+time:2024-01-15 13:57:53	ID:waveshare000	IP:192.168.38.124	PROT:54607	connect.
+time:2024-01-15 13:58:18	ID:waveshare000	IP:192.168.38.124	PROT:51517	connect.
+time:2024-01-15 13:58:50	ID:waveshare000	IP:192.168.38.124	PROT:55297	connect.
+time:2024-01-15 13:59:01	ID:waveshare000	IP:192.168.38.124	PROT:61213	connect.
+time:2024-01-15 13:59:12	ID:waveshare000	IP:192.168.38.124	PROT:59622	connect.
+time:2024-01-15 13:59:24	ID:waveshare000	IP:192.168.38.124	PROT:62269	connect.
+time:2024-01-15 13:59:36	ID:waveshare000	IP:192.168.38.124	PROT:63691	connect.
+time:2024-01-15 13:59:49	ID:waveshare000	IP:192.168.38.124	PROT:58968	connect.
+time:2024-01-15 14:00:01	ID:waveshare000	IP:192.168.38.124	PROT:57049	connect.
+time:2024-01-15 14:00:14	ID:waveshare000	IP:192.168.38.124	PROT:56061	connect.
+time:2024-01-15 14:00:31	ID:waveshare000	IP:192.168.38.124	PROT:57920	connect.
+time:2024-01-15 14:00:45	ID:waveshare000	IP:192.168.38.124	PROT:62335	connect.
+time:2024-01-15 14:01:00	ID:waveshare000	IP:192.168.38.124	PROT:50659	connect.
+time:2024-01-15 14:01:11	ID:waveshare000	IP:192.168.38.124	PROT:65158	connect.
+time:2024-01-15 14:01:22	ID:waveshare000	IP:192.168.38.124	PROT:60298	connect.
+time:2024-01-15 14:01:34	ID:waveshare000	IP:192.168.38.124	PROT:59385	connect.
+time:2024-01-15 14:01:44	ID:waveshare000	IP:192.168.38.124	PROT:60210	connect.
+time:2024-01-15 14:01:56	ID:waveshare000	IP:192.168.38.124	PROT:64892	connect.
+time:2024-01-15 14:03:16	ID:waveshare000	IP:192.168.38.124	PROT:64522	connect.
+time:2024-01-15 14:03:27	ID:waveshare000	IP:192.168.38.124	PROT:64522	Display over.
+time:2024-01-15 14:03:52	ID:waveshare000	IP:192.168.38.124	PROT:64522	Display over.
+time:2024-01-15 14:04:16	ID:waveshare000	IP:192.168.38.124	PROT:53464	connect.
+time:2024-01-15 14:04:27	ID:waveshare000	IP:192.168.38.124	PROT:53464	Display over.
+time:2024-01-15 14:04:51	ID:waveshare000	IP:192.168.38.124	PROT:53464	Display over.
+time:2024-01-15 14:05:17	ID:waveshare000	IP:192.168.38.124	PROT:65177	connect.
+time:2024-01-15 14:05:28	ID:waveshare000	IP:192.168.38.124	PROT:65177	Display over.
+time:2024-01-15 14:05:52	ID:waveshare000	IP:192.168.38.124	PROT:65177	Display over.
+time:2024-01-15 14:06:17	ID:waveshare000	IP:192.168.38.124	PROT:56686	connect.
+time:2024-01-15 14:06:28	ID:waveshare000	IP:192.168.38.124	PROT:56686	Display over.
+time:2024-01-15 14:06:52	ID:waveshare000	IP:192.168.38.124	PROT:56686	Display over.
+time:2024-01-15 14:07:19	ID:waveshare000	IP:192.168.38.124	PROT:57770	connect.
+time:2024-01-15 14:07:30	ID:waveshare000	IP:192.168.38.124	PROT:57770	Display over.
+time:2024-01-15 14:07:54	ID:waveshare000	IP:192.168.38.124	PROT:57770	Display over.
+time:2024-01-15 14:08:18	ID:waveshare000	IP:192.168.38.124	PROT:52340	connect.
+time:2024-01-15 14:08:29	ID:waveshare000	IP:192.168.38.124	PROT:52340	Display over.
+time:2024-01-15 14:08:53	ID:waveshare000	IP:192.168.38.124	PROT:52340	Display over.
+time:2024-01-15 14:09:19	ID:waveshare000	IP:192.168.38.124	PROT:52505	connect.
+time:2024-01-15 14:09:30	ID:waveshare000	IP:192.168.38.124	PROT:52505	Display over.
+time:2024-01-15 14:09:55	ID:waveshare000	IP:192.168.38.124	PROT:52505	Display over.
+time:2024-01-15 14:10:19	ID:waveshare000	IP:192.168.38.124	PROT:52796	connect.
+time:2024-01-15 14:10:30	ID:waveshare000	IP:192.168.38.124	PROT:52796	Display over.
+time:2024-01-15 14:10:55	ID:waveshare000	IP:192.168.38.124	PROT:52796	Display over.
+time:2024-01-15 14:21:01	ID:waveshare000	IP:192.168.38.124	PROT:49307	connect.
+time:2024-01-15 14:21:12	ID:waveshare000	IP:192.168.38.124	PROT:49307	Display over.
+time:2024-01-15 14:21:37	ID:waveshare000	IP:192.168.38.124	PROT:49307	Display over.
+time:2024-01-15 14:22:03	ID:waveshare000	IP:192.168.38.124	PROT:65046	connect.
+time:2024-01-15 14:22:14	ID:waveshare000	IP:192.168.38.124	PROT:65046	Display over.
+time:2024-01-15 14:22:38	ID:waveshare000	IP:192.168.38.124	PROT:65046	Display over.
+time:2024-01-15 14:23:05	ID:waveshare000	IP:192.168.38.124	PROT:51896	connect.
+time:2024-01-15 14:23:18	ID:waveshare000	IP:192.168.38.124	PROT:50788	connect.
+time:2024-01-15 14:23:30	ID:waveshare000	IP:192.168.38.124	PROT:50788	Display over.
+time:2024-01-15 14:23:55	ID:waveshare000	IP:192.168.38.124	PROT:50788	Display over.
+time:2024-01-15 14:24:19	ID:waveshare000	IP:192.168.38.124	PROT:59643	connect.
+time:2024-01-15 14:24:30	ID:waveshare000	IP:192.168.38.124	PROT:59643	Display over.
+time:2024-01-15 14:24:55	ID:waveshare000	IP:192.168.38.124	PROT:59643	Display over.
+time:2024-01-15 14:25:19	ID:waveshare000	IP:192.168.38.124	PROT:62422	connect.
+time:2024-01-15 14:25:30	ID:waveshare000	IP:192.168.38.124	PROT:62422	Display over.
+time:2024-01-15 14:25:55	ID:waveshare000	IP:192.168.38.124	PROT:62422	Display over.
+time:2024-01-15 14:26:19	ID:waveshare000	IP:192.168.38.124	PROT:64067	connect.
+time:2024-01-15 14:26:30	ID:waveshare000	IP:192.168.38.124	PROT:64067	Display over.
+time:2024-01-15 14:26:55	ID:waveshare000	IP:192.168.38.124	PROT:64067	Display over.
+time:2024-01-15 14:27:19	ID:waveshare000	IP:192.168.38.124	PROT:51995	connect.
+time:2024-01-15 14:27:30	ID:waveshare000	IP:192.168.38.124	PROT:51995	Display over.
+time:2024-01-15 14:27:54	ID:waveshare000	IP:192.168.38.124	PROT:51995	Display over.
+time:2024-01-15 14:28:19	ID:waveshare000	IP:192.168.38.124	PROT:52590	connect.
+time:2024-01-15 14:28:30	ID:waveshare000	IP:192.168.38.124	PROT:52590	Display over.
+time:2024-01-15 14:28:55	ID:waveshare000	IP:192.168.38.124	PROT:52590	Display over.
+time:2024-01-15 14:29:19	ID:waveshare000	IP:192.168.38.124	PROT:57924	connect.
+time:2024-01-15 14:29:31	ID:waveshare000	IP:192.168.38.124	PROT:57924	Display over.
+time:2024-01-15 14:29:55	ID:waveshare000	IP:192.168.38.124	PROT:57924	Display over.
+time:2024-01-15 14:30:20	ID:waveshare000	IP:192.168.38.124	PROT:60053	connect.
+time:2024-01-15 14:30:31	ID:waveshare000	IP:192.168.38.124	PROT:60053	Display over.
+time:2024-01-15 14:30:56	ID:waveshare000	IP:192.168.38.124	PROT:60053	Display over.
+time:2024-01-15 14:31:21	ID:waveshare000	IP:192.168.38.124	PROT:65225	connect.
+time:2024-01-15 14:31:32	ID:waveshare000	IP:192.168.38.124	PROT:65225	Display over.
+time:2024-01-15 14:31:57	ID:waveshare000	IP:192.168.38.124	PROT:65225	Display over.
+time:2024-01-15 14:32:21	ID:waveshare000	IP:192.168.38.124	PROT:54684	connect.
+time:2024-01-15 14:32:33	ID:waveshare000	IP:192.168.38.124	PROT:54684	Display over.
+time:2024-01-15 14:33:00	ID:waveshare000	IP:192.168.38.124	PROT:61719	connect.
+time:2024-01-15 14:33:12	ID:waveshare000	IP:192.168.38.124	PROT:61719	Display over.
+time:2024-01-15 14:33:36	ID:waveshare000	IP:192.168.38.124	PROT:61719	Display over.
+time:2024-01-15 14:34:00	ID:waveshare000	IP:192.168.38.124	PROT:52080	connect.
+time:2024-01-15 14:34:12	ID:waveshare000	IP:192.168.38.124	PROT:52080	Display over.
+time:2024-01-15 15:07:45	ID:waveshare000	IP:192.168.38.124	PROT:56937	connect.
+time:2024-01-15 15:07:57	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:08:21	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:08:46	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:09:10	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:09:35	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:09:59	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:10:24	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:10:49	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:11:13	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:11:38	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:12:03	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:12:28	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:12:53	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:13:18	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:13:43	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:14:09	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:14:33	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:14:58	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:15:23	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:15:49	ID:waveshare000	IP:192.168.38.124	PROT:56937	Display over.
+time:2024-01-15 15:16:17	ID:waveshare000	IP:192.168.38.124	PROT:59243	connect.
+time:2024-01-15 15:16:29	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:16:54	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:17:19	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:17:44	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:18:09	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:18:34	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:18:59	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:19:24	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:19:49	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:20:15	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:20:39	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:21:04	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:21:28	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:21:53	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:22:18	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:22:42	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:23:07	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:23:32	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-15 15:23:57	ID:waveshare000	IP:192.168.38.124	PROT:59243	Display over.
+time:2024-01-16 16:33:32	ID:waveshare000	IP:192.168.38.124	PROT:61796	connect.
+time:2024-01-16 16:33:43	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:34:09	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:34:34	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:34:59	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:35:24	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:35:50	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:36:14	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:36:40	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:37:05	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:37:30	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:37:55	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:38:20	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:38:45	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:39:10	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:39:35	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:40:00	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:40:24	ID:waveshare000	IP:192.168.38.124	PROT:61796	Display over.
+time:2024-01-16 16:42:59	ID:waveshare000	IP:192.168.38.124	PROT:59731	connect.
+time:2024-01-16 16:45:53	ID:waveshare000	IP:192.168.38.124	PROT:55121	connect.
+time:2024-01-16 16:46:06	ID:waveshare000	IP:192.168.38.124	PROT:55121	Display over.
+time:2024-01-16 16:46:37	ID:waveshare000	IP:192.168.38.124	PROT:61356	connect.
+time:2024-01-16 17:06:11	ID:waveshare000	IP:192.168.38.124	PROT:59713	connect.
+time:2024-01-16 17:06:22	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:06:47	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:07:11	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:07:36	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:08:01	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:08:25	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:08:50	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:09:15	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:09:39	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-16 17:10:04	ID:waveshare000	IP:192.168.38.124	PROT:59713	Display over.
+time:2024-01-17 00:44:27	ID:waveshare000	IP:192.168.38.124	PROT:49644	connect.
+time:2024-01-17 00:44:38	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:45:02	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:45:26	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:45:52	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:46:16	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:46:41	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:47:05	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:47:30	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:47:54	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:48:19	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:48:43	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:49:08	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:49:32	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:49:57	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:50:21	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:50:46	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:51:10	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:51:35	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:51:59	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:52:24	ID:waveshare000	IP:192.168.38.124	PROT:49644	Display over.
+time:2024-01-17 00:52:52	ID:waveshare000	IP:192.168.38.124	PROT:58634	connect.
+time:2024-01-17 00:53:03	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:53:27	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:53:52	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:54:16	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:54:41	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:55:06	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:55:30	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:55:54	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:56:19	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:56:43	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:57:08	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:57:32	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:57:57	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:58:21	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:58:46	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:59:10	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:59:35	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 00:59:59	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 01:00:24	ID:waveshare000	IP:192.168.38.124	PROT:58634	Display over.
+time:2024-01-17 01:00:51	ID:waveshare000	IP:192.168.38.124	PROT:58224	connect.
+time:2024-01-17 01:01:02	ID:waveshare000	IP:192.168.38.124	PROT:58224	Display over.
+time:2024-01-17 01:01:26	ID:waveshare000	IP:192.168.38.124	PROT:58224	Display over.
+time:2024-01-17 01:02:31	ID:waveshare000	IP:192.168.38.124	PROT:62337	connect.
+time:2024-01-17 01:02:42	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:02:56	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:03:11	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:03:25	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:03:40	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:03:54	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:04:09	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:04:23	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:04:38	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:04:52	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:05:07	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:05:22	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:05:36	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:05:51	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:06:05	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:06:20	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:06:34	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:06:49	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:07:04	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:07:18	ID:waveshare000	IP:192.168.38.124	PROT:62337	Display over.
+time:2024-01-17 01:07:37	ID:waveshare000	IP:192.168.38.124	PROT:64162	connect.
+time:2024-01-17 01:07:47	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:08:02	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:08:16	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:08:31	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:08:45	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:09:00	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:09:14	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:09:29	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:09:43	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:09:58	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:10:12	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:10:27	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:10:41	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:10:56	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:11:10	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:11:25	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:11:39	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:11:54	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:12:09	ID:waveshare000	IP:192.168.38.124	PROT:64162	Display over.
+time:2024-01-17 01:12:27	ID:waveshare000	IP:192.168.38.124	PROT:53924	connect.
+time:2024-01-17 01:12:38	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:12:52	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:13:07	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:13:21	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:13:36	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:13:50	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:14:05	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:14:19	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:14:34	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:14:49	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:15:03	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:15:18	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:15:32	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:15:47	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:16:01	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:16:16	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:16:30	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:16:45	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:16:59	ID:waveshare000	IP:192.168.38.124	PROT:53924	Display over.
+time:2024-01-17 01:17:17	ID:waveshare000	IP:192.168.38.124	PROT:52115	connect.
+time:2024-01-17 01:17:28	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:17:42	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:17:57	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:18:11	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:18:26	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:18:40	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:18:55	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:19:10	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:19:24	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:19:38	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:19:53	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:20:07	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:20:22	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:20:36	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:20:51	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:21:05	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:21:20	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:21:34	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:21:49	ID:waveshare000	IP:192.168.38.124	PROT:52115	Display over.
+time:2024-01-17 01:22:06	ID:waveshare000	IP:192.168.38.124	PROT:53473	connect.
+time:2024-01-17 01:23:25	ID:waveshare000	IP:192.168.38.124	PROT:51325	connect.
+time:2024-01-17 01:23:36	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:23:47	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:23:58	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:24:09	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:24:20	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:24:30	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:24:41	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:24:52	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:25:03	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:25:14	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:25:24	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:25:36	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:25:47	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:25:57	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:26:08	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:26:19	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:26:30	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:26:41	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:26:52	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:27:03	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:27:14	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:27:24	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:27:35	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:27:46	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:27:57	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:28:08	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:28:19	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:28:30	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:28:40	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:28:51	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:29:02	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:29:13	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:29:24	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:29:35	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:29:46	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:29:56	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:30:07	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:30:18	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:30:29	ID:waveshare000	IP:192.168.38.124	PROT:51325	Display over.
+time:2024-01-17 01:30:40	ID:waveshare000	IP:192.168.38.124	PROT:50052	connect.
+time:2024-01-17 01:30:51	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:31:02	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:31:13	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:31:23	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:31:34	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:31:45	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:31:56	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:32:07	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:32:18	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:32:28	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:32:39	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:32:50	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:33:01	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:33:12	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:33:23	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:33:33	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:33:44	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:33:55	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:34:06	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:34:17	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:34:28	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:34:38	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:34:49	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:35:00	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:35:11	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:35:22	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:35:33	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:35:43	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:35:54	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:36:05	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:36:16	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:36:27	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:36:38	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:36:49	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:37:00	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:37:10	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:37:21	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:37:32	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:37:43	ID:waveshare000	IP:192.168.38.124	PROT:50052	Display over.
+time:2024-01-17 01:37:53	ID:waveshare000	IP:192.168.38.124	PROT:50169	connect.
+time:2024-01-17 01:38:04	ID:waveshare000	IP:192.168.38.124	PROT:50169	Display over.
+time:2024-01-17 01:38:15	ID:waveshare000	IP:192.168.38.124	PROT:50169	Display over.
+time:2024-01-17 01:38:26	ID:waveshare000	IP:192.168.38.124	PROT:50169	Display over.
+time:2024-01-17 01:38:37	ID:waveshare000	IP:192.168.38.124	PROT:50169	Display over.
+time:2024-01-17 01:38:48	ID:waveshare000	IP:192.168.38.124	PROT:50169	Display over.
+time:2024-01-17 08:37:26	ID:waveshare000	IP:192.168.38.124	PROT:58003	connect.
+time:2024-01-17 08:37:38	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:38:12	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:38:47	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:39:22	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:39:56	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:40:31	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:41:05	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:41:40	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:42:15	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:42:50	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:43:25	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:44:00	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:44:36	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:45:11	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:45:46	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:46:21	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:46:56	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:47:31	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:48:06	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:48:41	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:49:17	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:49:52	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:50:26	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:51:01	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:51:36	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:52:12	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:52:47	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:53:22	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:53:57	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:54:33	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:55:07	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:55:43	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:56:18	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:56:53	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:57:28	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:58:04	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:58:39	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:59:15	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 08:59:50	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:00:26	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:01:02	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:01:37	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:02:12	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:02:46	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:03:21	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:03:57	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:04:32	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:05:06	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:05:41	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:06:16	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:06:52	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:07:27	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:08:03	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:08:38	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:09:13	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:09:49	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:10:24	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:11:00	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:11:35	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:12:10	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:12:46	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:13:22	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:13:57	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:14:33	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:15:08	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:15:43	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:16:18	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:16:53	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:17:29	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:18:04	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:18:39	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:19:14	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:19:50	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:20:27	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:21:03	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:21:38	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:22:13	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:22:48	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:23:23	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:23:58	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:24:33	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:25:08	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:25:43	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:26:19	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:26:54	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:27:29	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:28:04	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:28:39	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:29:14	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:29:49	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:30:24	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:30:59	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:31:35	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:32:10	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:32:45	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:33:20	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:33:55	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:34:30	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:35:05	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:35:40	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:36:15	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:36:50	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:37:25	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:37:59	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:38:35	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:39:10	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:39:45	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:40:20	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:40:55	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:41:29	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:42:04	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:42:39	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:43:14	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:43:49	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:44:24	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:44:59	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:45:34	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:46:09	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:46:44	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:47:19	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:47:54	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:48:29	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:49:04	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:49:39	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:50:14	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:50:49	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:51:23	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:51:59	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:52:34	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:53:09	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:53:44	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:54:19	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:54:54	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:55:29	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:56:04	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:56:39	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:57:13	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:57:48	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:58:23	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:58:58	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 09:59:33	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:00:09	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:00:44	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:01:19	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:01:54	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:02:29	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:03:05	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:03:40	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:04:15	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:04:50	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:05:25	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:06:00	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:06:35	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:07:10	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:07:45	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:08:20	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:08:55	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:09:29	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:10:04	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:10:39	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:11:15	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:11:49	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:12:25	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:12:59	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:13:34	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:14:09	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:14:44	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:15:19	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:15:54	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:16:28	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:17:03	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:17:38	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:18:13	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:18:48	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:19:23	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:19:58	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:20:33	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:21:08	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:21:42	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:22:17	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:22:52	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:23:27	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:24:03	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:24:37	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:25:12	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:25:47	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:26:22	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:26:57	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:27:32	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:28:07	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:28:42	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:29:17	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:29:51	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:30:26	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:31:01	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:31:36	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:32:11	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:32:45	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:33:20	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:33:54	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:34:29	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:35:04	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:35:39	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:36:14	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:36:49	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:37:23	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:37:58	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:38:33	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:39:07	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:39:42	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:40:16	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:40:51	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:41:26	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:42:01	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:42:36	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:43:11	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:43:46	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:44:20	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:44:55	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:45:30	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:46:05	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:46:40	ID:waveshare000	IP:192.168.38.124	PROT:58003	Display over.
+time:2024-01-17 10:51:48	ID:waveshare000	IP:192.168.38.124	PROT:49836	connect.
+time:2024-01-17 10:51:59	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:52:34	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:53:08	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:53:43	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:54:18	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:54:53	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:55:28	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:56:03	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:56:37	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:57:12	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:57:47	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:58:21	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:58:56	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 10:59:31	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:00:06	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:00:40	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:01:15	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:01:50	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:02:25	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:03:00	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:03:35	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:04:09	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:04:44	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:05:19	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:05:54	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:06:29	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:07:03	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:07:38	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:08:13	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:08:48	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:09:23	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:09:58	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:10:33	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:11:08	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:11:42	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:12:17	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:12:52	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:13:27	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:14:01	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:14:36	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:15:11	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:15:46	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:16:20	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:16:55	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:17:30	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:18:05	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:18:40	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:19:14	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:19:49	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:20:24	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:20:59	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:21:33	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:22:08	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:22:43	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:23:18	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:23:53	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:24:28	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:25:02	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:25:37	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:26:12	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:26:47	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:27:21	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:27:56	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:28:31	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.
+time:2024-01-17 11:29:05	ID:waveshare000	IP:192.168.38.124	PROT:49836	Display over.

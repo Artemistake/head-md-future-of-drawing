@@ -74,7 +74,7 @@ Made some 3D visualization mockups of the project to help me see what the final 
 
 
 
-## 2023-11-16 Half semester with caran d'ache
+## 2023-11-16  Half semester with caran d'ache
 
 We had a presentation with people from caran d'ache and the feedbacks were similar to what we said yesterday with Alexia and Douglas about how confusing the whole user journey can be and how it should maybe be more poetic and less charged. I was told that the project have good bases and need to evolve in a more concise way, ableing it to be more precise and easy to understand.
 
@@ -82,7 +82,7 @@ We had a presentation with people from caran d'ache and the feedbacks were simil
 
 
 
-## 2023-11/12
+## 2023-11-12  Links to Electronics and Form folders
 
 Introduction to Electronics and Modeling, you can find the files, advancement and exercices here :
 
@@ -118,8 +118,19 @@ Got my print of the big prototype used for the presentation containing the E-ink
 
 ## 2024-01-12
 
-Finaly got my E-ink and started working on the code to display things on it by wifi.
+Finaly got my E-ink and started working on the code to display the images on it by wifi.
 
 ## 2024-01-15
 
-Spent the whole weekend trying to unerstand the messy doc of this model of E-ink and learning python to code it. Finaly managed to get a code rolling that helped me displays a list of images on the E-ink.
+Spent the whole weekend trying to unerstand the messy doc of this model of E-ink and learning python to code it. Finaly managed to get a code rolling that helped me displays a list of images on the E-ink that are send via a server on my computer.
+
+## 2024-01-16
+
+Used the different materials to polish the aspect of my two prototypes (big and 50% ones): using different sanding paper then applying two coats of primer then after letting it dry for 3 hours, painted it with three coats of the painting spay. Also did some tweaking withe the images that will be displayed during the presentation.
+
+I took the evening to do some cool CGI background animation to play during my presentation. 
+
+ ![](process/2024-01-15/Background.png)
+
+## 2024-01-17  JURY !
+
